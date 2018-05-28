@@ -9,6 +9,7 @@
 <html>
 <head>
     <title>mon custom</title>
+    <link rel="stylesheet" href="custom-hello.css" type="text/css">
 </head>
 <body>
     <%
